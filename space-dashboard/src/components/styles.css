@@ -1,0 +1,19 @@
+.MuiTableCell-alignRight {
+  text-align: center !important;
+  flex-direction: row-reverse !important;
+}
+.MuiTableCell-root {
+  border-bottom: none !important;
+}
+.table > * {
+  background-color: darkcyan !important;
+  font-weight: 600 !important;
+  color: black !important;
+  padding: 30px 1% 30px !important;
+}
+.MuiPaper-elevation1 {
+  box-shadow: none !important;
+}
+.ant-modal-footer {
+  display:none !important;
+}
